@@ -1,0 +1,13 @@
+C:\workspace\Desafio_csharp1\Desafio\bin\Debug\netcoreapp3.1\Desafio.exe
+C:\workspace\Desafio_csharp1\Desafio\bin\Debug\netcoreapp3.1\Desafio.deps.json
+C:\workspace\Desafio_csharp1\Desafio\bin\Debug\netcoreapp3.1\Desafio.runtimeconfig.json
+C:\workspace\Desafio_csharp1\Desafio\bin\Debug\netcoreapp3.1\Desafio.runtimeconfig.dev.json
+C:\workspace\Desafio_csharp1\Desafio\bin\Debug\netcoreapp3.1\Desafio.dll
+C:\workspace\Desafio_csharp1\Desafio\bin\Debug\netcoreapp3.1\Desafio.pdb
+C:\workspace\Desafio_csharp1\Desafio\obj\Debug\netcoreapp3.1\Desafio.csprojAssemblyReference.cache
+C:\workspace\Desafio_csharp1\Desafio\obj\Debug\netcoreapp3.1\Desafio.AssemblyInfoInputs.cache
+C:\workspace\Desafio_csharp1\Desafio\obj\Debug\netcoreapp3.1\Desafio.AssemblyInfo.cs
+C:\workspace\Desafio_csharp1\Desafio\obj\Debug\netcoreapp3.1\Desafio.csproj.CoreCompileInputs.cache
+C:\workspace\Desafio_csharp1\Desafio\obj\Debug\netcoreapp3.1\Desafio.dll
+C:\workspace\Desafio_csharp1\Desafio\obj\Debug\netcoreapp3.1\Desafio.pdb
+C:\workspace\Desafio_csharp1\Desafio\obj\Debug\netcoreapp3.1\Desafio.genruntimeconfig.cache
